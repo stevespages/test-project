@@ -1,5 +1,5 @@
 {
-    "name": "your-vendor-name/test-project",
+    "name": "stevespages/test-project",
     "description": "A project for me to test making a git repo and packagist package.",
     "require": {
         "php": ">=7.4"
